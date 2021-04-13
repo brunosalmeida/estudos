@@ -1,7 +1,7 @@
 # Review
 
 ## Docker
-    - A parte docker parece ter sido planeja com antecedencia e é muito bem gravada e executada seguindo começo meio em fim.
+- A parte docker parece ter sido planeja com antecedencia e é muito bem gravada e executada seguindo começo meio em fim.
 
 ## REDIS
     - Explicar o que é o Youtube Downloader, me senti como se tivesse entrado numa reunião sem saber do que se trata, faltou uma introduçao
