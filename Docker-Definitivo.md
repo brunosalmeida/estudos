@@ -26,4 +26,6 @@
         - Foi dito que a gravação parou no meio numa live anterior, mas que vê o video no futuro, não tem contexto algum.
     - Videos de 3h é sacanagem.
         - Poderia ser cortado em tamanhos menores.
+## Lives
+    - Datas não dizem nada sobre o conteúdo do vídeo. Seria interessante colocar um titulo que resuma a live.
     
